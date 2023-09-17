@@ -1,2 +1,2 @@
 # CartPole_Stabilization 
-Building, simulation and control inverted pendulum (cart pole) by RL and PID 
+Building, simulating, and controlling an inverted pendulum (cart pole) using RL in Python and PID in Matlab.
